@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wilkinsonartphotography.com/sitemap.xml
